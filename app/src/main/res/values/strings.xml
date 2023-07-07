@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Drivers License Exam App</string>
+    <string name="app_title">Drivers License Exam</string>
+    <string name="name">Name</string>
+    <string name="bi">BI</string>
+    <string name="age">Age</string>
+    <string name="contact">Contact</string>
+    <string name="exam_type">Exam type:</string>
+    <string name="exam_practice">Practice</string>
+    <string name="exam_theory">Theory</string>
+    <string name="license_category">License category:</string>
+    <string name="license_heavy">Heavy</string>
+    <string name="license_light">Light</string>
+    <string name="register">Register</string>
+</resources>
